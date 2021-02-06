@@ -1,0 +1,33 @@
+body {
+    background: url("assets/1.jpg") center center no-repeat;
+    background-size: cover;
+}
+.row.fixed-top{
+    background-color:rgba(0,0,0,0.4);
+}
+.logo-row {
+    margin: 0 auto;
+}
+
+.logo {
+    width: 50;
+    height: 50px;
+    text-align: center;
+}
+#background {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.box {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+.black-background {
+
+}
+.bold1 {
+    font-weight: bold;
+}
